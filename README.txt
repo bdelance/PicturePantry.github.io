@@ -5,7 +5,7 @@
 | :---------------------- | :------------- | :-------------------------------------- |
 | Zackary Dearlove        | 8344954        | zdear059@uottawa.ca, geko2111@gmail.com |
 |                         |                |                                         |
-|                         |                |                                         |
+| Quang-Vinh Do           | 8771581        | qdo086@uottawa.ca, qvinh@live.ca        |
 |                         |                |                                         |
 
 Product Description: 
