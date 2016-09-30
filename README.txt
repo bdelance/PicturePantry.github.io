@@ -1,12 +1,13 @@
 #Product: Picture Pantry
 
 ##Team Name:	Team 8
-| **Member Name**         | **Student ID** | Email(s)                                |
-| :---------------------- | :------------- | :-------------------------------------- |
-| Zackary Dearlove        | 8344954        | zdear059@uottawa.ca, geko2111@gmail.com |
-|                         |                |                                         |
-| Quang-Vinh Do           | 8771581        | qdo086@uottawa.ca, qvinh@live.ca        |
-|                         |                |                                         |
+| **Member Name**         | **Student ID** | Email(s)                                    |
+| :---------------------- | :------------- | :------------------------------------------ |
+| Zackary Dearlove        | 8344954        | zdear059@uottawa.ca, geko2111@gmail.com     |
+|                         |                |                                             |
+| Quang-Vinh Do           | 8771581        | qdo086@uottawa.ca, qvinh@live.ca            |
+|                         |                |                                             |
+| Ayman El Bakhti         | 8890998        | aelba103@uottawa.ca, elbakhtiayman@gmail.com|
 
 Product Description: 
 Our overall idea is to have a website (with accompanying app) that is similar to major
